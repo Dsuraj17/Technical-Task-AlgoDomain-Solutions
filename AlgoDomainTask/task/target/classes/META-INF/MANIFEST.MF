@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: task
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: suraj
+Implementation-Vendor-Id: com.algodomain
+Build-Jdk: 1.8.0_202
+Implementation-URL: https://spring.io/projects/spring-boot/task
+Created-By: Maven Integration for Eclipse
+
