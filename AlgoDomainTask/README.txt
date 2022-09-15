@@ -18,6 +18,6 @@ How to Run
 	 mvn spring-boot:run
 	•The app will start running at http://localhost:9090.
 
-5.Open Document.do For Other details.
+5.Open Document.docx For Other details.
 
 Thank you.
